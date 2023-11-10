@@ -9,3 +9,5 @@ List of Currency pairs you can work with:
 5. AUD/USD - Australian Dollar/US Dollar
 6. USD/CAD - US Dollar/Canadian Dollar
 7. NZD/USD - New Zealand Dollar/US Dollar
+
+THANK YOU FRIENDS
